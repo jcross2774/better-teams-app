@@ -1,2 +1,10 @@
-@import "bootstrap"; 
+@import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.magic-padding {
+  padding: 30px;
+}
